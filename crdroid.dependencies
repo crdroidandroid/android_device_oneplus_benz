@@ -27,7 +27,7 @@
   {
     "repository": "LineageOS/android_hardware_pixelworks_interfaces",
     "target_path": "hardware/pixelworks/interfaces",
-    "branch": "lineage-23.2"
+    "branch": "lineage-24.0"
   },
   {
     "repository": "crdroidandroid/proprietary_vendor_oneplus_ir",
@@ -35,8 +35,8 @@
     "remote": "crdroid-gitlab"
   },
   {
-    "repository": "TheMuppets/proprietary_vendor_oneplus_benz",
+    "repository": "crdroidandroid/proprietary_vendor_oneplus_benz",
     "target_path": "vendor/oneplus/benz",
-    "branch": "lineage-23.2"
+    "remote": "crdroid-gitlab"
   }
 ]
